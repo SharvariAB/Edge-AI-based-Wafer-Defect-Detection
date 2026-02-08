@@ -44,6 +44,7 @@ Sample Results:
 - Recall: 41.46%
 
 ## Model Export
+- All experiments and training were performed using Google Colab with GPU acceleration.
 - Trained model exported to ONNX format
 - ONNX model compatible with NXP eIQ toolchain
 
