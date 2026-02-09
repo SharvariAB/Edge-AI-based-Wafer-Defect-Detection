@@ -14,6 +14,7 @@ from wafer inspection images, optimized for edge deployment.
 - Other
 
 ## Dataset
+- our dataset (https://drive.google.com/drive/folders/1CSazniHXaf4Uif9K480--7K2d_4mAFza?usp=sharing)
 - Custom dataset collected from publicly available wafer defect image sources
 - Images converted to grayscale to reduce model size and improve edge performance
 - Dataset split into Train, Validation, and Test folders
