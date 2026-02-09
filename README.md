@@ -39,9 +39,9 @@ from wafer inspection images, optimized for edge deployment.
 - Confusion Matrix
 
 Sample Results:
-- Accuracy: 41.46%
-- Precision: 40.99%
-- Recall: 41.46%
+- Accuracy: 81.16%
+- Precision: 80.72%
+- Recall: 81.16%
 
 ## Model Export
 - All experiments and training were performed using Google Colab with GPU acceleration.
